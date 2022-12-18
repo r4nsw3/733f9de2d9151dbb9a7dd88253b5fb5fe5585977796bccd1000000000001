@@ -2,14 +2,14 @@
 -	0	.gitattributes
 -	0	.gitignore
 -	0	index.txt
-	1	continuous_hash/crc32.txt
-	1	continuous_hash/md5.txt
-	1	continuous_hash/sha1.txt
-	1	continuous_hash/sha256.txt
-	1	crc32.txt
-	1	md5.txt
-	1	sha1.txt
-	1	sha256.txt
+-	1	continuous_hash/crc32.txt
+-	1	continuous_hash/md5.txt
+-	1	continuous_hash/sha1.txt
+-	1	continuous_hash/sha256.txt
+-	1	crc32.txt
+-	1	md5.txt
+-	1	sha1.txt
+-	1	sha256.txt
 	0	data/00/00/00/00/00.bin
 	1	data/00/00/00/00/01.bin
 	0	data/00/00/00/00/02.bin
